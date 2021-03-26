@@ -1,0 +1,21 @@
+{
+  "name": "toolchain-xtensa32",
+  "version": "3.9xxx",
+  "description": "GCC Toolchain for Xtensa32 processor",
+  "keywords": [
+    "build tools",
+    "compiler",
+    "assembler",
+    "linker",
+    "preprocessor",
+    "esp32"
+  ],
+  "license": "GPL-2.0-or-later",
+  "system": [
+    "linux_x86_64"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pe3ucTop/toolchain-xtensa32"
+  }
+}
